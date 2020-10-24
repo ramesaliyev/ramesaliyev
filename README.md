@@ -5,7 +5,7 @@ I'm interested in AI and Data Science [∴](https://rames.dev/about)
 
 For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 
-<details><summary>Here is a list of repos I would suggest you to check out if you're curious.</summary>
+<details><summary>Here is a list of repos I would suggest you to check out if you're curious.</summary><br>
 
 - [kes.im](https://github.com/ramesaliyev/kes.im) No-log url shortener works on top of Cloudflares' Workers
 - [mom](https://github.com/ramesaliyev/mom) Proof of concept for Message-Oriented-Middleware based architecture
