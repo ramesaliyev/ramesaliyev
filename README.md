@@ -25,4 +25,4 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=comaristan&label=%23&color=gray)
+![](https://komarev.com/ghpvc/?username=ramesaliyev&label=%23&color=gray)
