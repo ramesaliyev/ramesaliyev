@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there ![](https://komarev.com/ghpvc/?username=comaristan&label=%23&color=gray)
 
 Hi, I'm Ramesh, a Software Developer and also a Computer Science / Engineering student from Istanbul.<br>
 I'm interested in AI and Data Science [∴](https://rames.dev/about)
@@ -24,3 +24,4 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [foqus](https://github.com/ramesaliyev/foqus) Site blocker proxy to help you focus.
 
 </details>
+
