@@ -21,6 +21,6 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [agnostic](https://github.com/ramesaliyev/agnostic) Walkthrough for creating provider agnostic scalable server environment from scratch
 - [famine](https://github.com/ramesaliyev/famine) Early POC for 2D RTS Kinda Game Rendering in Browser
 - [aloy](https://github.com/ramesaliyev/aloy) My own NodeJS utilities / recipes / sandboxing collection library
-- [foqus](https://github.com/ramesaliyev/foqus) WIP. Site blocker proxy to help you focus.
+- [foqus](https://github.com/ramesaliyev/foqus) Site blocker proxy to help you focus.
 
 </details>
