@@ -1,4 +1,4 @@
-### Hello there <div>![](https://komarev.com/ghpvc/?username=comaristan&label=%23&color=gray)</div>
+### Hello there <span>![](https://komarev.com/ghpvc/?username=comaristan&label=%23&color=gray)</span>
 
 Hi, I'm Ramesh, a Software Developer and also a Computer Science / Engineering student from Istanbul.<br>
 I'm interested in AI and Data Science [∴](https://rames.dev/about)
