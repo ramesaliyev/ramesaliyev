@@ -5,7 +5,7 @@ I'm interested in AI and Data Science [∴](https://rames.dev/about)
 
 For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 
-<details><summary>Here is a list of repos I would suggest you to check out if you're curious.</summary><br>
+<details><summary>Here is a list of repos I would suggest you to check out if you're curious. But keep in mind that not all of them is complete.</summary><br>
 
 - [kes.im](https://github.com/ramesaliyev/kes.im) No-log url shortener works on top of Cloudflares' Workers
 - [mom](https://github.com/ramesaliyev/mom) Proof of concept for Message-Oriented-Middleware based architecture
@@ -22,6 +22,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [famine](https://github.com/ramesaliyev/famine) Early POC for 2D RTS Kinda Game Rendering in Browser
 - [aloy](https://github.com/ramesaliyev/aloy) My own NodeJS utilities / recipes / sandboxing collection library
 - [foqus](https://github.com/ramesaliyev/foqus) Site blocker proxy to help you focus.
+- [8086 assembly](https://github.com/ramesaliyev/8086-assembly) Exercises for Assembly lecture
 
 </details>
 
