@@ -24,6 +24,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [foqus](https://github.com/ramesaliyev/foqus) Site blocker proxy to help you focus.
 - [8086 assembly](https://github.com/ramesaliyev/8086-assembly) Exercises for Assembly lecture
 - [signal processing 101](https://github.com/ramesaliyev/signal-processing-101) Exercises for Signals and Systems lecture
+- [logic circuits](https://github.com/ramesaliyev/logic-circuits) Exercises for Logic Circuits lecture
 
 </details>
 
