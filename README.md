@@ -26,7 +26,8 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [signal processing 101](https://github.com/ramesaliyev/signal-processing-101) Exercises for Signals and Systems lecture
 - [logic circuits](https://github.com/ramesaliyev/logic-circuits) Exercises for Logic Circuits lecture
 - [hello c](https://github.com/ramesaliyev/hello-c) Exercises for lectures done with C language
-
+- [data processing 101](data-processing-101) Term project of Big Data Processing and Analytics lecture
+  
 </details>
 
 ![](https://komarev.com/ghpvc/?username=ramesaliyev&label=%23&color=gray)
