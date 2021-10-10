@@ -23,7 +23,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [aloy](https://github.com/ramesaliyev/aloy) My own NodeJS utilities / recipes / sandboxing collection library
 - [foqus](https://github.com/ramesaliyev/foqus) Site blocker proxy to help you focus.
 - [8086 assembly](https://github.com/ramesaliyev/8086-assembly) Exercises for Assembly lecture
-- [signal processing 101](https://github.com/ramesaliyev/signal-processing-101) Exercises for Signals and Systems lecture
+- [signal processing 101](https://github.com/ramesaliyev/signal-processing-101) Exercises of Digital Signal Processing lecture
 - [logic circuits](https://github.com/ramesaliyev/logic-circuits) Exercises for Logic Circuits lecture
 - [hello c](https://github.com/ramesaliyev/hello-c) Exercises for lectures done with C language
 - [data processing 101](data-processing-101) Term project of Big Data Processing and Analytics lecture
