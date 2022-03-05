@@ -72,7 +72,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [ramesaliyev.github.io](https://github.com/ramesaliyev/ramesaliyev.github.io) Currently a placeholder for Github Pages.
 
 #### Misc
-- [Webassembly Square Benchmark](https://github.com/ramesaliyev/webassembly-square-benchmark) Square benchmark with WebAssembly.
+- [wasm square benchmark](https://github.com/ramesaliyev/webassembly-square-benchmark) Square benchmark with WebAssembly.
 - [ej react workshop](https://github.com/ramesaliyev/ej-react-workshop) React workshop with Redux, Webpack and others.
 - [ecma.co](https://github.com/ramesaliyev/ecma.co) Website for the company I co-found in past.
 #### Archive  
