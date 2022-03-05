@@ -12,15 +12,15 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [trigonoparty](https://github.com/ramesaliyev/trigonoparty) Simple Trigonometry Visualisation with Pure JavaScript.
 
 #### Little Pet Projects
-- [facty](https://github.com/ramesaliyev/facty) Integer Factorization Approaches with JavaScript.
 - [kilp](https://github.com/ramesaliyev/kilp) Util for Mac to kill process listening on port.
 - [glone](https://github.com/ramesaliyev/glone) Simple utility to run post-clone jobs after git clone.
   
 #### Experiments
 - [mom](https://github.com/ramesaliyev/mom) Proof of concept for Message-Oriented-Middleware based architecture.
-- [numerica](https://github.com/ramesaliyev/numerica) Numerical analysis methods implemented in Python.
 - [visual noises](https://github.com/ramesaliyev/visual-noises) Noise Algorithms Visualised in 1D and 2D with pure JavaScript.
-
+- [numerica](https://github.com/ramesaliyev/numerica) Numerical analysis methods implemented in Python.
+- [facty](https://github.com/ramesaliyev/facty) Integer Factorization Approaches with JavaScript.
+  
 #### Wikis
 - [dev stack](https://github.com/ramesaliyev/dev-stack) Personal Development Stack.
 - [definitions](https://github.com/ramesaliyev/definitions) Some definitions that I'm having trouble to remember.
