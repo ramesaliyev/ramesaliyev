@@ -71,6 +71,9 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [npx card](https://github.com/ramesaliyev/npx-card) for `npx ramesaliyev` and `npx rames`
 - [ramesaliyev.github.io](https://github.com/ramesaliyev/ramesaliyev.github.io) Currently a placeholder for Github Pages.
 
+#### Templates
+- [template jupyter](https://github.com/ramesaliyev/template-jupyter)
+  
 #### Misc
 - [wasm square benchmark](https://github.com/ramesaliyev/webassembly-square-benchmark) Square benchmark with WebAssembly.
 - [ej react workshop](https://github.com/ramesaliyev/ej-react-workshop) React workshop with Redux, Webpack and others.
