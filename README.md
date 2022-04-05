@@ -32,7 +32,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [logic circuits](https://github.com/ramesaliyev/logic-circuits) Exercises for Logic Circuits lecture.
 - [image processing 101](https://github.com/ramesaliyev/image-processing-101) Exercises of Digital Image Processing lecture.
 - [signal processing 101](https://github.com/ramesaliyev/signal-processing-101) Exercises of Digital Signal Processing lecture.
-- [data processing 101](data-processing-101) Term project of Big Data Processing and Analytics lecture.
+- [data processing 101](https://github.com/ramesaliyev/data-processing-101) Term project of Big Data Processing and Analytics lecture.
 - [discrete math](https://github.com/ramesaliyev/discrete-math) Homeworks and Project for Discrete Mathematics lecture.
 - [software engineering project](https://github.com/ramesaliyev/softeng-library-automation) Simple project for Software Engineering lecture.
   
