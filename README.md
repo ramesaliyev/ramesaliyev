@@ -72,7 +72,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [ramesaliyev.github.io](https://github.com/ramesaliyev/ramesaliyev.github.io) Currently a placeholder for Github Pages.
 
 #### Templates
-- [template jupyter](https://github.com/ramesaliyev/template-jupyter)
+- [template jupyter](https://github.com/ramesaliyev/template-jupyter) quick start for jupyter notebook
   
 #### Misc
 - [wasm square benchmark](https://github.com/ramesaliyev/webassembly-square-benchmark) Square benchmark with WebAssembly.
