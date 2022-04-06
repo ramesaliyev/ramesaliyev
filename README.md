@@ -1,6 +1,6 @@
 # Hello there 😎
 
-Hi, I'm Ramesh, a former Software Engineer and currently a Computer Science student from Istanbul. <br>
+Hi, I'm Rameş, a former Software Engineer and currently a Computer Science student from Istanbul. <br>
 I'm interested in AI and mostly Computer Vision [∴](https://rames.dev/about)
 
 For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
