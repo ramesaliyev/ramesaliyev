@@ -57,6 +57,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [hello sql](https://github.com/ramesaliyev/hello-sql) Notes and examples of SQL.
 - [hello react redux](https://github.com/ramesaliyev/hello-react-redux) Gentle meeting with React/Redux environment.
 - [hello godot](https://github.com/ramesaliyev/hello-godot) Exercises with Godot game engine.
+- [hello pandas](https://github.com/ramesaliyev/hello-pandas) Exercises with Python's Pandas library.
   
 #### Oldies / Deprecated Ones 
 - [bedelliaskerlikciktimi.com](https://github.com/ramesaliyev/bedelliaskerlikciktimi.com) Information hub for paid military service news. 
