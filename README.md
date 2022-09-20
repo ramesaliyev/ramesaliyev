@@ -39,6 +39,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [data processing 101](https://github.com/ramesaliyev/data-processing-101) Term project of Big Data Processing and Analytics lecture.
 - [discrete math](https://github.com/ramesaliyev/discrete-math) Homeworks and Project for Discrete Mathematics lecture.
 - [software engineering project](https://github.com/ramesaliyev/softeng-library-automation) Simple project for Software Engineering lecture.
+- [electronic circuits](https://github.com/ramesaliyev/electronic-circuits) Exercises and Laboratory work for Electronic Circuits lecture.
   
 #### Uncompleted / Abandoned Pet Projects  
 - [agnostic](https://github.com/ramesaliyev/agnostic) Walkthrough for creating provider agnostic scalable server environment from scratch.
