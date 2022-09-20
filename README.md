@@ -27,6 +27,9 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [links](https://github.com/ramesaliyev/links) Great links to remember.
   
 #### YTU (University, Computer Science, Undergraduate)
+- [ai heart disease prediction](https://github.com/ramesaliyev/ai-heart-disease-prediction) Heart disease prediction with ML, homework of Data mining lecture.
+- [ai weight estimation](https://github.com/ramesaliyev/ai-weight-estimation) Weight estimation with ML, homework of AI lecture.
+- [generic algorithms 101](https://github.com/ramesaliyev/generic-algorithms-101) Single line drawing imitations with Genetic Algorithms, homework of AI lecture.
 - [8086 assembly](https://github.com/ramesaliyev/8086-assembly) Exercises for Assembly lecture.
 - [8086 simulations](https://github.com/ramesaliyev/8086-simulations) Exercises for 8086 Microprocessor lecture.
 - [logic circuits](https://github.com/ramesaliyev/logic-circuits) Exercises for Logic Circuits lecture.
