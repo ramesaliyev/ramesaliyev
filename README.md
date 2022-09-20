@@ -20,7 +20,8 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [visual noises](https://github.com/ramesaliyev/visual-noises) Noise Algorithms Visualised in 1D and 2D with pure JavaScript.
 - [numerica](https://github.com/ramesaliyev/numerica) Numerical analysis methods implemented in Python.
 - [facty](https://github.com/ramesaliyev/facty) Integer Factorization Approaches with JavaScript.
-  
+- [mltk](https://github.com/ramesaliyev/mltk) My own basic ML toolkit to use in cloud notebooks.
+
 #### Wikis
 - [dev stack](https://github.com/ramesaliyev/dev-stack) Personal Development Stack.
 - [definitions](https://github.com/ramesaliyev/definitions) Some definitions that I'm having trouble to remember.
@@ -39,7 +40,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [discrete math](https://github.com/ramesaliyev/discrete-math) Homeworks and Project for Discrete Mathematics lecture.
 - [software engineering project](https://github.com/ramesaliyev/softeng-library-automation) Simple project for Software Engineering lecture.
   
-#### Uncompleted Pet Projects  
+#### Uncompleted / Abandoned Pet Projects  
 - [agnostic](https://github.com/ramesaliyev/agnostic) Walkthrough for creating provider agnostic scalable server environment from scratch.
 - [famine](https://github.com/ramesaliyev/famine) Early POC for 2D RTS Kinda Game Rendering in Browser.
 - [aloy](https://github.com/ramesaliyev/aloy) My own NodeJS utilities / recipes / sandboxing collection library.
@@ -56,13 +57,13 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [hello react redux](https://github.com/ramesaliyev/hello-react-redux) Gentle meeting with React/Redux environment.
 - [hello godot](https://github.com/ramesaliyev/hello-godot) Exercises with Godot game engine.
   
-#### Oldies / Deprecateds
+#### Oldies / Deprecated Ones 
 - [bedelliaskerlikciktimi.com](https://github.com/ramesaliyev/bedelliaskerlikciktimi.com) Information hub for paid military service news. 
 - [easy web worker](https://github.com/ramesaliyev/EasyWebWorker) Library for Easy Communication Protocol for Web Workers.
 - [vapora](https://github.com/ramesaliyev/VapoRA) Improved version of ghost theme for turkish language.
 - [gerzek](https://github.com/ramesaliyev/gerzek) Talented bot for slack.
 
-#### Challenges
+#### Recruitment or Self Challenges
 - [project euler](https://github.com/ramesaliyev/project-euler-solutions) My solutions of project-euler problems.
 - [mars rovers code challenge](https://github.com/ramesaliyev/mars-rovers-code-challenge) My solution for mars rovers code challange.
 - [mountains](https://github.com/ramesaliyev/mountains) Simple web blog demonstration where you can earn badges.
@@ -81,6 +82,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [wasm square benchmark](https://github.com/ramesaliyev/webassembly-square-benchmark) Square benchmark with WebAssembly.
 - [ej react workshop](https://github.com/ramesaliyev/ej-react-workshop) React workshop with Redux, Webpack and others.
 - [ecma.co](https://github.com/ramesaliyev/ecma.co) Website for the company I co-found in past.
+
 #### Archive  
 - [babel-plugin-dynamic-import-to-require](https://github.com/ramesaliyev/babel-plugin-dynamic-import-to-require) Babel plugin to transpile `import()` to `require()`.
   
