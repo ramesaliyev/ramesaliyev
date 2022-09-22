@@ -85,14 +85,14 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [ej react workshop](https://github.com/ramesaliyev/ej-react-workshop) React workshop with Redux, Webpack and others.
 - [ecma.co](https://github.com/ramesaliyev/ecma.co) Website for the company I co-found in past.
 
+#### Archive  
+- [babel-plugin-dynamic-import-to-require](https://github.com/ramesaliyev/babel-plugin-dynamic-import-to-require) Babel plugin to transpile `import()` to `require()`.
+
 #### Forks
 - [visualize generalized means](https://github.com/ramesaliyev/visualize-generalized-means) Code of [this](https://medium.com/swlh/visualizing-the-geometric-and-harmonic-means-e8b9c5a818ae) blog post.
 - [pishro-nik solutions](https://github.com/ramesaliyev/solutions_to_probability_statistics) A Complete Solutions Guide to Pishro-Nik's book.
 - [default-backend](https://github.com/ramesaliyev/default-backend) A default backend (404 page) for nginx-ingress in Kubernetes.
 
-#### Archive  
-- [babel-plugin-dynamic-import-to-require](https://github.com/ramesaliyev/babel-plugin-dynamic-import-to-require) Babel plugin to transpile `import()` to `require()`.
-  
 </details>
 
 ![](https://komarev.com/ghpvc/?username=ramesaliyev&label=%23&color=gray)
