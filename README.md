@@ -28,6 +28,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [links](https://github.com/ramesaliyev/links) Great links to remember.
   
 #### YTU (University, Computer Science, Undergraduate)
+- [ytu yemek](https://github.com/ramesaliyev/ytu-yemek) Daily dinning hall menu fetcher.
 - [ai heart disease prediction](https://github.com/ramesaliyev/ai-heart-disease-prediction) Heart disease prediction with ML, homework of Data mining lecture.
 - [ai weight estimation](https://github.com/ramesaliyev/ai-weight-estimation) Weight estimation with ML, homework of AI lecture.
 - [generic algorithms 101](https://github.com/ramesaliyev/generic-algorithms-101) Single line drawing imitations with Genetic Algorithms, homework of AI lecture.
