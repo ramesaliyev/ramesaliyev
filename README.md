@@ -1,7 +1,7 @@
 # Hello there 😎
 
-Hi, I'm Rameş, a former Software Engineer and currently a Computer Science student from Istanbul. <br>
-I'm interested in AI and mostly Computer Vision [∴](https://rames.dev/about)
+Hi, I'm Rameş, a former software engineer currently studying MSc Informatics at TUM, <br>
+specializing in AI, with a focus on Deep Learning and Computer Vision [∴](https://rames.dev/about)
 
 For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 
