@@ -22,6 +22,9 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [facty](https://github.com/ramesaliyev/facty) Integer Factorization Approaches with JavaScript.
 - [mltk](https://github.com/ramesaliyev/mltk) My own basic ML toolkit to use in cloud notebooks.
 
+#### Cloudflare Workers
+- [email2push](https://github.com/ramesaliyev/cfw-email2push) CF email worker for sending auth codes from emails as push notifications.
+
 #### Wikis
 - [dev stack](https://github.com/ramesaliyev/dev-stack) Personal Development Stack.
 - [definitions](https://github.com/ramesaliyev/definitions) Some definitions that I'm having trouble to remember.
