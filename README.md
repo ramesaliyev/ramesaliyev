@@ -57,7 +57,7 @@ For more, be sure to check out my homepage [rames.dev](https://rames.dev/)
 - [hello c](https://github.com/ramesaliyev/hello-c) Exercises for various lectures done with C language.
 - [hello python](https://github.com/ramesaliyev/hello-python) Notes and examples of Python.
 - [hello java](https://github.com/ramesaliyev/hello-java) Notes and examples of Java.
-- [hello golang](https://github.com/ramesaliyev/hello-golang) Notes and examples of Go language.
+- [hello go](https://github.com/ramesaliyev/hello-go) Notes and examples of Go language.
 - [hello sql](https://github.com/ramesaliyev/hello-sql) Notes and examples of SQL.
 - [hello react redux](https://github.com/ramesaliyev/hello-react-redux) Gentle meeting with React/Redux environment.
 - [hello godot](https://github.com/ramesaliyev/hello-godot) Exercises with Godot game engine.
